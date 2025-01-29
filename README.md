@@ -14,4 +14,3 @@
 -   📊 Sales Analytics
 -   🎨 Design with Tailwind
 -   🚀Caching with Redis
--   ⌛ And a lot more...
